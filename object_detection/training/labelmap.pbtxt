@@ -1,0 +1,81 @@
+item {
+    id:1
+	name:'aluterus scriptus'
+}
+
+item {
+    id:2
+	name:'amanses scopas'
+}
+item {
+    id:3
+	name:'anyperodon leucogrammicus'
+}
+item {
+    id:4
+	name:'aphareus furca'
+}
+item {
+    id:5
+	name:'bodianus anthioides'
+}
+item {
+    id:6
+	name:'bodianus axillaris'
+}
+item {
+    id:7
+	name:'bodianus bilunulatus'
+}
+item {
+    id:8
+	name:'bothus pantherinus'
+}
+item {
+    id:9
+	name:'cantherhines dumerilii'
+}
+item {
+    id:10
+	name:'cantherhines pardalis'
+}
+item {
+    id:11
+	name:'caranx melampygus'
+}
+item {
+    id:12
+	name:'cephalopholis sexmaculata'
+}
+item {
+    id:13
+	name:'cephalopholis sonnerati'
+}
+item {
+    id:14
+	name:'cheilinus chlorourus'
+}
+item {
+    id:15
+	name:'pseudanthias squamipinnis'
+}
+item {
+    id:16
+	name:'stethojulis bandanensis'
+}
+item {
+    id:17
+	name:'stethojulis interrupta'
+}
+item {
+    id:18
+	name:'thalassoma amblycephalum'
+}
+item {
+    id:19
+	name:'thalassoma lutescens'
+}
+item {
+    id:20
+	name:'variola albimarginata'
+}
